@@ -6,7 +6,7 @@ const Over=()=>(
 
     <View>
     <Divider width={0.5}/>
-      <Text style={styles.over} >No More Posts
+      <Text style={styles.over} >No More Posts Thank u
       
       </Text>
     </View>
